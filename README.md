@@ -37,7 +37,7 @@ Click derecho, Import, Existing project into workspace, seleccionamos `twitter`,
     | Packaging Grails application.....
     | Compiling 1 source files.....
     | Running Grails application
-    | Server running. Browse to [http://localhost:8080/twitter](http://localhost:8080/twitter)
+    | Server running. Browse to http://localhost:8080/twitter
 
 Visitamos [http://localhost:8080/twitter/tweet/](http://localhost:8080/twitter/tweet/) para verlo funcionar.
 
